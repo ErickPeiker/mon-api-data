@@ -1,0 +1,19 @@
+{
+	"development": false,
+	"devMysql": {
+		"username": "applocal",
+		"password": "applocal",
+		"host": "127.0.0.1",
+		"port": "3306",
+		"database": "owlmo",
+		"dialect": "mysql"
+	},
+	"prodMysql": {
+		"username": "app",
+		"password": "QYGtTq4XYe5Gc62",
+		"host": "34.70.73.159",
+		"port": "1201",
+		"database": "owlmo",
+		"dialect": "mysql"
+	}
+}
